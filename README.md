@@ -1,3 +1,10 @@
+
+
+title: Hello World<br>
+date: "2015-05-01T22:12:03.284Z"<br>
+description: "Hello World"<br>
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
