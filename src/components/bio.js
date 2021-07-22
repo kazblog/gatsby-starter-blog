@@ -44,7 +44,8 @@ const Bio = () => {
       /> */}
       {author?.name && (
         <p>
-          Copying and pasting from Stack Overflow
+          ここに各種リンクとか？Google広告とか?
+          {/* Copying and pasting from Stack Overflow */}
           {/* Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>

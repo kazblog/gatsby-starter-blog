@@ -1,8 +1,20 @@
 ---
-title: New Beginnings
+title: 新しい始まり
 date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです.
 ---
+
+```javascript
+const person = {
+  fullName: "Brendan Eich",
+  sayName: function () {
+    // `person.fullName`と書いているのと同じ
+    return this.fullName
+  },
+}
+// `person.fullName`を出力する
+console.log(person.sayName()) // => "Brendan Eich"
+```
 
 Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
