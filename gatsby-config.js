@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Show Your Work :)`,
+    title: `語学と技術と暮らし`,
     author: {
       name: `KazumaWada`,
       summary: `who lives and works in San Francisco building useful things.`,
