@@ -44,7 +44,7 @@ const Bio = () => {
       /> */}
       {author?.name && (
         <p>
-          ここに各種リンクとか？Google広告とか?このブログを簡単に投稿できるプログラムを作りたい。タグ: https://www.gatsbyjs.com/docs/adding-tags-and-categories-to-blog-posts/
+          早くReactを習得して、このブログをカスタマイズできるようになりたい。ここに各種リンクとか？Google広告とか?このブログを簡単に投稿できるプログラムを作りたい。タグ: https://www.gatsbyjs.com/docs/adding-tags-and-categories-to-blog-posts/
           {/* Copying and pasting from Stack Overflow */}
           {/* Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
