@@ -44,13 +44,17 @@ const Bio = () => {
       /> */}
       {author?.name && (
         <p>
-          早くReactを習得して、このブログをカスタマイズできるようになりたい。ここに各種リンクとか？Google広告とか?このブログを簡単に投稿できるプログラムを作りたい。タグ: https://www.gatsbyjs.com/docs/adding-tags-and-categories-to-blog-posts/
+          Google広告
           {/* Copying and pasting from Stack Overflow */}
-          {/* Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
+          {/* Written by <strong>{author.name}</strong> {author?.summary || null} */}
+
+          {/* <a href={`https://twitter.com/${social?.twitter || ``}`}>
             You should follow them on Twitter
-          </a> */}
+          </a>  */}
+           <a href={`https://kazumawada.hashnode.dev/`} target="_blank">
+            テックブログ
+          </a> 
+         
         </p>
       )}
     </div>
