@@ -44,16 +44,17 @@ const Bio = () => {
       /> */}
       {author?.name && (
         <p>
-          Google広告
+          "Give yourself permission to be creative"
+          {/* Google広告 */}
           {/* Copying and pasting from Stack Overflow */}
           {/* Written by <strong>{author.name}</strong> {author?.summary || null} */}
 
           {/* <a href={`https://twitter.com/${social?.twitter || ``}`}>
             You should follow them on Twitter
           </a>  */}
-           <a href={`https://kazumawada.hashnode.dev/`} target="_blank">
+           {/* <a href={`https://kazumawada.hashnode.dev/`} target="_blank">
             テックブログ
-          </a> 
+          </a>  */}
          
         </p>
       )}
