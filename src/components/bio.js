@@ -44,7 +44,7 @@ const Bio = () => {
       /> */}
       {author?.name && (
         <p>
-          "Give yourself permission to be creative"
+          {/* "Give yourself permission to be creative" */}
           {/* Google広告 */}
           {/* Copying and pasting from Stack Overflow */}
           {/* Written by <strong>{author.name}</strong> {author?.summary || null} */}
